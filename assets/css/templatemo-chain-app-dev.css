@@ -1098,6 +1098,15 @@ Services Style
   background-image: url(../images/service-icon-hover-04.png);
 }
 
+.fifth-service .icon {
+  background-image: url(../images/service-icon-04.png);
+}
+
+.fifth-service:hover .icon {
+  background-image: url(../images/service-icon-hover-04.png);
+}
+/* ////////////////////////hehe */
+
 .service-item:hover {
   background-image: url(../images/service-bg.jpg);
   background-position: right top;
